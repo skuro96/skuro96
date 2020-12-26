@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/skurosu?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skuro96&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
